@@ -9,7 +9,7 @@ A simple python-based Hangman game implemented in Python as part of my CodeAlpha
 ✅ User-friendly and interactive terminal interface
 ## 🚀 How to Run
 Download or clone this repository
-git clone https://github.com/divyak2628-code/hangman_game
+git clone https://github.com/divyak2628-code/CodeAlpha_HangmanGame
 Open the folder in VS Code or any IDE
 Run the game using:
 python hangman_game.py
