@@ -19,6 +19,3 @@ Start guessing letters and have fun
 ## 🧰 Technologies Used
 Python 3.14.0
 VS Code (optional for development)
-## 👩‍💻 Author
-Divya k
-🎯 Beginner Python Developer | Passionate about learning coding through fun projects
